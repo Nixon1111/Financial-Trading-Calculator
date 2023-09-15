@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(67, 55, 55) !important;
+}
+
+.calculator {
+    background-color: rgb(60, 182, 182);
+    margin-top: 10%;
+}
+
+.row {
+    margin: 0 auto;
+}
